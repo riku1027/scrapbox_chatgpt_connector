@@ -1,4 +1,4 @@
-# Scrapbox ChatGPT Connector
+# Triku Scrapbox ChatGPT
 
 ChatGPT に対する質問に対して[自分のScrapbox Project](https://scrapbox.io/riku19981027-69787355) を参照するようにしたやつ
 
